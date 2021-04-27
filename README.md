@@ -1,11 +1,9 @@
-# About
-This repository is for http://devclub.am blog post which is describing how to create simple combination of JavaScript frontend AngularJS and server side Express.js + Socket.io Node.js projects.
 
 # Run This Example
 You need to have installed <a href="http://nodejs.org">Node.js</a>.
 <b>After installing Node.js</b> just run this commands
 <pre>
-    git clone https://github.com/tigran-bayburtsyan/real-time-editor.git
+    git clone https://github.com/akshaykr01/real-time-editor.git
     cd real-time-editor
     npm install
     node server.js
